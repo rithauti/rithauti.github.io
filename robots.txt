@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rithauti.github.io/sitemap.html.gz
+Sitemap: https://rithauti.github.io/app/sitemap.html.gz
+Sitemap: https://rithauti.github.io/assets/sitemap.html.gz
+Sitemap: https://rithauti.github.io/css/sitemap.html.gz
+Sitemap: https://rithauti.github.io/includes/sitemap.html.gz
+Sitemap: https://rithauti.github.io/item/sitemap.html.gz
+Sitemap: https://rithauti.github.io/src/sitemap.html.gz
